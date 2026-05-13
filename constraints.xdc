@@ -1,0 +1,8 @@
+set_property IOSTANDARD LVCMOS33 [get_ports clk_100M]
+set_property IOSTANDARD LVCMOS33 [get_ports r]
+set_property IOSTANDARD LVCMOS33 [get_ports rst]
+set_property IOSTANDARD LVCMOS33 [get_ports g]
+set_property PACKAGE_PIN F14 [get_ports clk_100M]
+set_property PACKAGE_PIN J2 [get_ports rst]
+set_property PACKAGE_PIN V6 [get_ports r]
+set_property PACKAGE_PIN V4 [get_ports g]
